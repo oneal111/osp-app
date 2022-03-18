@@ -28,8 +28,6 @@ gem "decidim-term_customizer", git: "https://github.com/mainio/decidim-module-te
 
 gem "bootsnap", "~> 1.3"
 
-gem 'decidim-admin', '~> 0.23.2'
-gem 'decidim-pages', '~> 0.23.2'
 gem "dotenv-rails"
 
 gem "puma", "~> 4.3"
