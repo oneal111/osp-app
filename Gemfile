@@ -9,6 +9,8 @@ DECIDIM_VERSION = "release/0.23-stable"
 gem "decidim", git: "https://github.com/decidim/decidim.git", branch: DECIDIM_VERSION
 # gem "decidim", path: "../decidim"
 
+gem "decidim-conferences", path: "."
+
 # gem "decidim-conferences", git: "https://github.com/decidim/decidim.git", branch: "release/0.23-stable"
 # gem "decidim-consultations", git: "https://github.com/decidim/decidim.git", branch: "release/0.23-stable"
 # gem "decidim-initiatives", git: "https://github.com/decidim/decidim.git", branch: "release/0.23-stable"
@@ -38,8 +40,6 @@ gem "faker", "~> 1.8"
 gem "ruby-progressbar"
 
 gem "letter_opener_web", "~> 1.3"
-
-gem 'decidim-conferences'
 
 gem "sprockets", "~> 3.7"
 
