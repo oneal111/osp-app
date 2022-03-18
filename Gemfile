@@ -20,7 +20,7 @@ gem "decidim-decidim_awesome", "~> 0.6.0"
 gem "decidim-navbar_links", git: "https://github.com/OpenSourcePolitics/decidim-module-navbar_links.git", branch: "0.23.5"
 gem "decidim-term_customizer", git: "https://github.com/mainio/decidim-module-term_customizer.git", branch: "0.23-stable"
 
-# gem "decidim-calendar", git: "https://github.com/alabs/decidim-module-calendar"
+ gem "decidim-calendar", git: "https://github.com/alabs/decidim-module-calendar"
 # gem "decidim-combined_budgeting", git: "https://github.com/mainio/decidim-module-combined_budgeting"
 # gem "decidim-comparative_stats", git: "https://github.com/Platoniq/decidim-module-comparative_stats"
 # gem "decidim-direct_verifications", git: "https://github.com/Platoniq/decidim-verifications-direct_verifications"
