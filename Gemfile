@@ -9,7 +9,7 @@ DECIDIM_VERSION = "release/0.23-stable"
 gem "decidim", git: "https://github.com/decidim/decidim.git", branch: DECIDIM_VERSION
 # gem "decidim", path: "../decidim"
 
-# gem "decidim-conferences", git: "https://github.com/decidim/decidim.git", branch: "release/0.23-stable"
+gem "decidim-conferences", git: "https://github.com/decidim/decidim.git", branch: "release/0.23-stable"
 # gem "decidim-consultations", git: "https://github.com/decidim/decidim.git", branch: "release/0.23-stable"
 # gem "decidim-initiatives", git: "https://github.com/decidim/decidim.git", branch: "release/0.23-stable"
 
